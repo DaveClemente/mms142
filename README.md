@@ -1,1 +1,1 @@
-# mms142
+A sample application of jekyll theme
